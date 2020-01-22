@@ -14,7 +14,6 @@ def gissaTalet():
         elif gissning > nummer:
             print ('Ditt tal är högre än talet, prova lägre...')
         rundor +=1
-
         if not rundor < 20:
             print('Du har använt alla dina försök, get pwned puny mortal')
 
