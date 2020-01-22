@@ -1,4 +1,5 @@
-from Modules import gissaTalet
+from Modules import gissaTalet, DelatMed
 
+DelatMed()
 gissaTalet()
 

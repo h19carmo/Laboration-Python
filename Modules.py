@@ -16,4 +16,9 @@ def gissaTalet():
         rundor +=1
 
         if not rundor < 20:
-            print('Du har använt alla dina chanser, get pwned puny mortal')
+            print('Du har använt alla dina försök, get pwned puny mortal')
+
+def DelatMed():
+    for num in range(0, 1000):
+        if num%4==0 and num%8==0:
+            print(num)
