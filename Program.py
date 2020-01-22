@@ -1,4 +1,4 @@
-from modules import gissaTal, delatMed
+from Modules import gissaTalet
 
-print((delatMed)5, 13)
-gissaTal()
+gissaTalet()
+
